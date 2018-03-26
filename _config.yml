@@ -1,0 +1,8 @@
+collections:
+  - versions
+theme: jekyll-theme-minimal
+title: rewrite-spring-boot-starter
+description: >
+  A Spring Boot starter for OCPSoft Rewrite.
+github:
+  repository_url: https://github.com/jpmsilva/rewrite-spring-boot-starter
